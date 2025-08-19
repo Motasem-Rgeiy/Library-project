@@ -15,16 +15,7 @@ class Book:
         if isinstance(other , Book):
             return self.title == other.title and self.author == other.author and self.year == other.year and  self.price == other.price and self.classification==other.classification
         return NotImplemented
-
-    def __iter__(self):
-        """Allows the object to be unpacked or converted to tuple."""
-        yield self.id
-        yield self.title
-        yield self.author
-        yield self.year
-        yield  self.price
-        yield self.classification
-        yield self.count
+    
 
 
 
