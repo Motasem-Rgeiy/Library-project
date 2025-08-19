@@ -1,0 +1,10 @@
+id,title,author,year,price,classification,count
+1,A Tale of Two Cities,Charles Dickens,1859,0.0,Historical fiction,1
+2,The Little Prince (Le Petit Prince),Antoine de Saint-Exupéry,1943,0.0,Fantasy,1
+3,The Alchemist (O Alquimista),Paulo Coelho,1988,0.0,Fantasy,1
+4,Harry Potter and the Philosopher's Stone,J. K. Rowling,1997,0.0,Fantasy,1
+5,And Then There Were None,Agatha Christie,1939,0.0,Mystery,1
+6,Dream of the Red Chamber (紅樓夢),Cao Xueqin,1791,0.0,Family saga,1
+7,The Hobbit,J. R. R. Tolkien,1937,0.0,"Fantasy, children's fiction",1
+8,Alice's Adventures in Wonderland,Lewis Carroll,1865,0.0,"Fantasy, absurdist fiction",1
+9,my name,Mohamed,2009,45.0,o,20

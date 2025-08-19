@@ -1,0 +1,60 @@
+Book management
+1- Add / edit / delete / search books
+2- Categorize by genre, author, year
+3- Book status: Available / Checked out / Reserved / Lost
+done..
+---------------------------------
+User/Member Management
+1-Register users (name, email, phone, etc.)
+2-Assign unique IDs
+3-Borrow/return history
+done..
+------------------------------------
+Borrow/Return System
+1-Borrowing system with due date
+2-Calculate overdue fines
+3-Return books and update status
+4-Notifications (print or email)
+------------------------------------
+📊 Reports & Export
+1-Export:
+List of books to CSV / Excel
+Borrow history per user
+2-Import book data from CSV/Excel
+------------------------------------
+Search System
+Search by:
+1-Title
+2-Author
+3-ISBN
+4-Genre
+5-Date added
+------------------------------------
+🧱 Database Integration
+1- Store books and users in SQLite
+2- Handle CRUD operations
+------------------------------------
+ Web Scraping
+1-Get latest book info (title, author, rating) from an online source (e.g., Open Library or Goodreads)
+2-Autofill form when adding a book via ISBN
+------------------------------------
+Email Notification System
+Send email to users:
+1-When book is overdue
+2-When new books are available
+3-Confirmation of borrowing
+
+
+use requerments.txt:
+1-install your modules (pip install requests beautifulsoup4 openpyxl pandas)
+2-install the requiremnts.txt file (pip freeze > requirements.txt)
+
+
+
+
+
+
+
+
+
+
